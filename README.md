@@ -9,7 +9,7 @@
   <br>
   <a href="https://windows.com/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <a href="https://www.lenovo.com"><img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white" alt="Lenovo Laptop">
+  <a href="https://www.lenovo.com"><img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" alt="Lenovo Laptop">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=novialriptide&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff00&text_color=718096&hide_border=true" height="150" alt="stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novialriptide&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_border=true" height="150" alt="most_used_langs">
