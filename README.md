@@ -1,3 +1,4 @@
 <a href="https://wakatime.com/@9797ee4f-4108-45bb-8fc2-b36b9c1a1c89"><img src="https://wakatime.com/badge/user/9797ee4f-4108-45bb-8fc2-b36b9c1a1c89.svg?style=for-the-badge" alt="Total time coded since Apr 26 2022" /></a>
-[![LeetCode user novialriptide](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnovialriptide&logo=leetcode&logoColor=yellow)](https://leetcode.com/novialriptide/)
-[![LeetCode user novialriptide](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnovialriptide&logo=leetcode&logoColor=yellow)](https://leetcode.com/novialriptide/)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
