@@ -12,3 +12,9 @@ Markdown           17 hrs 11 mins  █░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+## Current Projects
+ - Video game artificial intelligence
+ - InfernoEngine
+ - Rutgers Esports' verification bot
+ - go.rutgers.edu
