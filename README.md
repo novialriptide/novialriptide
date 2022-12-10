@@ -18,6 +18,7 @@ Markdown           17 hrs 26 mins  █░░░░░░░░░░░░░░
  - InfernoEngine
  - Rutgers Esports' verification bot
  - go.rutgers.edu
+ - rutgersesports.com
 
 ## Current Active Contributions
  - pygame
