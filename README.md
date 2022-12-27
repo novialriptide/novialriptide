@@ -12,15 +12,3 @@ Markdown           18 hrs 32 mins  █░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## Current Projects
-
- - go.rutgers.edu
- - rutgersesports.com
- - Video Game Artificial Intelligence
- - InfernoEngine
-
-## Current Active Contributions
-
- - pygame
- - osu!lazer
