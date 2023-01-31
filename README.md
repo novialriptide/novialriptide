@@ -17,5 +17,4 @@ JavaScript                 32 hrs 10 mins  █▒░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Other Contact Info
- - Email <andrewhong@myyahoo.com> for my real gmail address
  - Email <ah1371@oit.rutgers.edu> for any work questions related to Rutgers University
