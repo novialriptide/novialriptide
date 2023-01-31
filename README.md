@@ -18,3 +18,4 @@ JavaScript                 32 hrs 10 mins  █▒░░░░░░░░░░�
 
 ## Other Contact Info
  - Email <ah1371@oit.rutgers.edu> for any work questions related to Rutgers University
+ - Cool redirect: https://go.rutgers.edu/andrewhong
