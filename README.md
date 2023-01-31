@@ -1,3 +1,4 @@
+## My Stats
 <a href="https://wakatime.com/@9797ee4f-4108-45bb-8fc2-b36b9c1a1c89"><img src="https://wakatime.com/badge/user/9797ee4f-4108-45bb-8fc2-b36b9c1a1c89.svg?style=for-the-badge" alt="Total time coded since Apr 26 2022" /></a>
 
 **The repositories I don't own that are pinned are projects I've contributed at least 20 hours on.**
@@ -14,3 +15,7 @@ JavaScript                 32 hrs 10 mins  █▒░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## Other Contact Info
+Personal Work (email my yahoo for my gmail): <andrewhong@myyahoo.com>\
+Rutgers-related Work: <ah1371@oit.rutgers.edu>
