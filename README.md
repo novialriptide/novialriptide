@@ -12,12 +12,12 @@ as well as creating my own such as a [music streaming service](https://github.co
 <!--START_SECTION:waka-->
 
 ```text
-Python                     149 hrs 13 mins ███████░░░░░░░░░░░░░░░░░░   27.46 %
-Dart                       71 hrs 5 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-C                          65 hrs 1 min    ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-C#                         45 hrs 10 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-JavaScript                 34 hrs 18 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Java                       33 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Python                     149 hrs 28 mins ███████░░░░░░░░░░░░░░░░░░   27.36 %
+Dart                       71 hrs 5 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+C                          65 hrs 27 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+C#                         45 hrs 10 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+JavaScript                 34 hrs 40 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Java                       34 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 ```
 
 <!--END_SECTION:waka-->
