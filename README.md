@@ -1,7 +1,9 @@
-## My Stats
-<a href="https://wakatime.com/@9797ee4f-4108-45bb-8fc2-b36b9c1a1c89"><img src="https://wakatime.com/badge/user/9797ee4f-4108-45bb-8fc2-b36b9c1a1c89.svg?style=for-the-badge" alt="Total time coded since Apr 26 2022" /></a>
+## About Me
 
-**The repositories I don't own that are pinned are projects I've contributed at least 20 hours on.**
+A Class of 2026 student and student employee at Rutgers University - New Brunswick.
+I enjoy contributing to open source projects I like such as osu!lazer and pygame.
+
+## My Stats
 
 <!--START_SECTION:waka-->
 
