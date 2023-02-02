@@ -1,14 +1,13 @@
 ## About Me
-
 A class of 2026 student and student employee at Rutgers University - New Brunswick
 studying Computer Science. I enjoy contributing to open source projects I like such
 as [osu!lazer](http://github.com/ppy/osu) and [pygame](https://github.com/pygame/pygame)
-as well as creating my own such as a [music streaming service](https://github.com/hanamusic),
+as well as creating my own such as a [local music streaming service](https://github.com/hanamusic),
+[rutgersesports.club](https://github.com/rutgersesports/rutgersesports.club), 
 [third-party pixiv app](https://github.com/novialriptide/pix), and
 [a machine learning algorithm to play Super Mario Bros](https://github.com/novialriptide/Mario-NEAT).
 
 ## My Stats
-
 <!--START_SECTION:waka-->
 
 ```text
