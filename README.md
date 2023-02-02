@@ -11,14 +11,16 @@ as well as creating my own such as a [local music streaming service](https://git
 <!--START_SECTION:waka-->
 
 ```text
+From: 26 April 2022 - To: 02 February 2023
+
 Total Time: 546 hrs 14 mins
 
-Python                     149 hrs 28 mins #######------------------   27.36 %
-Dart                       71 hrs 5 mins   ###=---------------------   13.01 %
-C                          65 hrs 27 mins  ###----------------------   11.98 %
-C#                         45 hrs 10 mins  ##-----------------------   08.27 %
-JavaScript                 34 hrs 40 mins  #+-----------------------   06.35 %
-Java                       34 hrs 27 mins  #+-----------------------   06.31 %
+Python                     149 hrs 28 mins ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.36 %
+Dart                       71 hrs 5 mins   ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.01 %
+C                          65 hrs 27 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.98 %
+C#                         45 hrs 10 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.27 %
+JavaScript                 34 hrs 40 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.35 %
+Java                       34 hrs 27 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.31 %
 ```
 
 <!--END_SECTION:waka-->
