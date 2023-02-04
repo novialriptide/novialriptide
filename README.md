@@ -6,6 +6,7 @@ to open source projects I like such as [osu!lazer](http://github.com/ppy/osu) an
 [rutgersesports.club](https://github.com/rutgersesports/rutgersesports.club), 
 [a third-party pixiv app](https://github.com/novialriptide/pix), and
 [a machine learning algorithm to play Super Mario Bros](https://github.com/novialriptide/Mario-NEAT).
+I also have an addiction to Nintendo consoles and LEGO Star Wars.
 
 ## 📈 My Stats
 <!--START_SECTION:waka-->
