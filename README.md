@@ -1,7 +1,7 @@
 ## 👾 About Me
 A class of 2026 student and student employee studying Computer Science. I enjoy contributing
 to open source projects I like such as [osu!lazer](http://github.com/ppy/osu) and
-[pygame](https://github.com/pygame/pygame) as well as creating my own such as
+[pygame](https://github.com/pygame/pygame) / [pygame-ce](https://github.com/pygame-community) as well as creating my own such as
 [a full stack music streaming service](https://github.com/hanamusic),
 [rutgersesports.club](https://github.com/rutgersesports/rutgersesports.club), 
 [a third-party pixiv app](https://github.com/novialriptide/pix), and
