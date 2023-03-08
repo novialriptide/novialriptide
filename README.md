@@ -12,7 +12,7 @@ I also have an addiction to Nintendo consoles and LEGO Star Wars.
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 06 March 2023
+From: 26 April 2022 - To: 07 March 2023
 
 Total Time: 643 hrs 43 mins
 
