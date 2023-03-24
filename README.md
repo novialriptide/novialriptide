@@ -9,6 +9,7 @@ to open source projects I like such as [osu!lazer](http://github.com/ppy/osu) an
 I also have an addiction to Nintendo consoles and LEGO Star Wars.
 
 ## 📈 My Stats
+Most of my Java hours are probably from my university assignments.
 <!--START_SECTION:waka-->
 
 ```text
