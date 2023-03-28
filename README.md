@@ -31,6 +31,3 @@ HTML                       16 hrs 46 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-## 📠 Other Stuff
- - Email <ah1371@oit.rutgers.edu> for any work questions related to Rutgers University
- - Cool redirect: https://go.rutgers.edu/andrewhong
