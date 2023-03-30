@@ -1,12 +1,11 @@
 ## 👾 About Me
-A class of 2026 student and student employee studying Computer Science. I enjoy contributing
-to open source projects I like such as [osu!lazer](http://github.com/ppy/osu) and
-[pygame](https://github.com/pygame/pygame) / [pygame-ce](https://github.com/pygame-community) as well as creating my own such as
-[a full stack music streaming service](https://github.com/hanamusic),
+A class of 2026 student studying Computer Science at Rutgers University, currently employed by Rutgers Open System Solutions.
+I enjoy contributing to open source projects I like such as [osu!lazer](http://github.com/ppy/osu) (the popular circle-clicking
+rhythm game) and [pygame-ce](https://github.com/pygame-community/pygame-ce) (the fork of the popular Python game framework) as
+well as creating my own such as [a full stack music streaming service](https://github.com/hanamusic),
 [rutgersesports.club](https://github.com/rutgersesports/rutgersesports.club), 
 [a third-party pixiv app](https://github.com/novialriptide/pix), and
 [a machine learning algorithm to play Super Mario Bros](https://github.com/novialriptide/Mario-NEAT).
-I also have an addiction to Nintendo consoles and LEGO Star Wars.
 
 ## 📈 My Stats
 Most of my Java hours are probably from my university assignments.
@@ -30,4 +29,3 @@ HTML                       16 hrs 53 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
