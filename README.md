@@ -2,6 +2,8 @@
 A class of 2026 student studying Computer Science. I enjoy contributing to open source projects I like such
 as [osu!lazer](http://github.com/ppy/osu) (the popular circle-clicking rhythm game) and
 [pygame-ce](https://github.com/pygame-community/pygame-ce) (the fork of the popular Python game framework).
+I was also originally a contributor to the legacy [pygame](https://github.com/pygame/pygame) project as well.
+
 ## 📈 My Stats
 Most of my Java hours are probably from my university assignments.
 <!--START_SECTION:waka-->
