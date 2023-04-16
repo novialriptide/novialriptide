@@ -1,6 +1,6 @@
 ## 👾 About Me
 A class of 2026 student studying Computer Science. I enjoy contributing to open source projects I like such
-as [osu!lazer](https://github.com/ppy/osu/commits?author=novialriptide) (the popular circle-clicking rhythm
+as [osu!](https://github.com/ppy/osu/commits?author=novialriptide) (the popular circle-clicking rhythm
 game) and [pygame-ce](https://github.com/pygame-community/pygame-ce/commits?author=novialriptide) (the fork
 of the popular Python game framework). I was also originally a contributor to the legacy
 [pygame](https://github.com/pygame/pygame/commits?author=novialriptide) project as well. Click on the embedded
