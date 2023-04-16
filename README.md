@@ -6,7 +6,8 @@ of the popular Python game framework). Currently leading the development of the
 [pygame-ce website](https://github.com/pygame-community/pyga.me/commits?author=novialriptide).
 I was also originally a contributor to the legacy
 [pygame](https://github.com/pygame/pygame/commits?author=novialriptide) project as well.
-Click on the embedded URLs for my commit history in the respective repositories.
+
+*Click on the embedded URLs for my commit history in the respective repositories.*
 
 ## 📈 My Stats
 Most of my Java hours are probably from my university assignments.
