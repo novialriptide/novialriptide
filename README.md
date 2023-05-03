@@ -12,7 +12,7 @@ to the legacy [pygame](https://github.com/pygame/pygame/commits?author=novialrip
 *Click on the embedded URLs for my commit history in the respective repositories.*
 
 ## 📈 My Stats
-Most of my Java hours are probably from my university assignments.
+Most of my Java & TeX hours are probably from my university assignments.
 <!--START_SECTION:waka-->
 
 ```text
