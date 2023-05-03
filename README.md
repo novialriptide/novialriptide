@@ -14,7 +14,7 @@ Most of my Java hours are probably from my university assignments.
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 01 May 2023
+From: 26 April 2022 - To: 02 May 2023
 
 Total Time: 755 hrs 58 mins
 
