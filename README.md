@@ -1,8 +1,7 @@
 ## 👾 About Me
-A class of 2026 student studying Computer Science, core developer for pygame-ce & its website, & Python Discord
-Community Partner. I enjoy contributing to open source projects I like such as
-[osu!](https://github.com/ppy/osu/commits?author=novialriptide) (the popular circle-clicking rhythm game) and
-[pygame-ce](https://github.com/pygame-community/pygame-ce/commits?author=novialriptide) (the fork
+A class of 2026 student studying Computer Science. I enjoy contributing to open source projects I like such
+as [osu!](https://github.com/ppy/osu/commits?author=novialriptide) (the popular circle-clicking rhythm
+game) and [pygame-ce](https://github.com/pygame-community/pygame-ce/commits?author=novialriptide) (the fork
 of the popular Python game framework). Currently leading the development of the
 [pygame-ce website](https://github.com/pygame-community/pyga.me/commits?author=novialriptide).
 I was also originally a contributor to the legacy
