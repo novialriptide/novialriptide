@@ -2,10 +2,12 @@
 A class of 2026 student studying Computer Science. I enjoy contributing to open source projects I like such
 as [osu!](https://github.com/ppy/osu/commits?author=novialriptide) (the popular circle-clicking rhythm
 game) and [pygame-ce](https://github.com/pygame-community/pygame-ce/commits?author=novialriptide) (the fork
-of the popular Python game framework). Currently leading the development of the
-[pygame-ce website](https://github.com/pygame-community/pyga.me/commits?author=novialriptide).
-I was also originally a contributor to the legacy
-[pygame](https://github.com/pygame/pygame/commits?author=novialriptide) project as well.
+of the popular Python game framework). Currently I am the lead maintainer for the
+[pygame-ce website](https://github.com/pygame-community/pyga.me/commits?author=novialriptide), a
+[PythonDiscord](https://discord.gg/python) Community Partner for announcing releases or events
+relating to [pygame-ce](https://pyga.me), & lead developer of
+[OysterEngine](https://github.com/novialriptide/OysterEngine). I was also originally a contributor
+to the legacy [pygame](https://github.com/pygame/pygame/commits?author=novialriptide) project as well.
 
 *Click on the embedded URLs for my commit history in the respective repositories.*
 
