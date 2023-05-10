@@ -16,7 +16,7 @@ Most of my Java & TeX hours are probably from my university assignments.
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 08 May 2023
+From: 26 April 2022 - To: 09 May 2023
 
 Total Time: 758 hrs 51 mins
 
