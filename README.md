@@ -3,7 +3,7 @@ A class of 2026 student studying Computer Science. I enjoy contributing to open 
 as [osu!](https://github.com/ppy/osu/commits?author=novialriptide) (the popular circle-clicking rhythm
 game) and [pygame-ce](https://github.com/pygame-community/pygame-ce/commits?author=novialriptide) (the fork
 of the popular Python game framework). Currently I am the lead maintainer for the
-[pygame-ce website](https://github.com/pygame-community/pyga.me/commits?author=novialriptide), & a
+[pygame-ce website](https://github.com/pygame-community/pyga.me/commits?author=novialriptide), and a
 [PythonDiscord](https://discord.gg/python) Community Partner for announcing releases or events
 relating to [pygame-ce](https://pyga.me). I was also originally a contributor
 to the legacy [pygame](https://github.com/pygame/pygame/commits?author=novialriptide) project as well.
