@@ -11,7 +11,8 @@ to the legacy [pygame](https://github.com/pygame/pygame/commits?author=novialrip
 *Click on the embedded URLs for my commit history in the respective repositories.*
 
 ## 📈 My Stats
-Most of my Java & TeX hours are probably from my university assignments.
+Most of my TeX and some of my Java hours are probably from my university assignments. All of my C hours
+are from contributing to pygame, pygame-ce, and Python.
 <!--START_SECTION:waka-->
 
 ```text
