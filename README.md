@@ -12,7 +12,10 @@ to the legacy [pygame](https://github.com/pygame/pygame/commits?author=novialrip
 
 ## 📈 My Stats
 Most of my TeX and some of my Java hours are probably from my university assignments. All of my C hours
-are from contributing to pygame, pygame-ce, and Python.
+are from contributing to
+[pygame](https://github.com/pygame/pygame/commits?author=novialriptide),
+[pygame-ce](https://github.com/pygame-community/pygame-ce/commits?author=novialriptide),
+and [Python](https://github.com/python/cpython/commits?author=novialriptide).
 <!--START_SECTION:waka-->
 
 ```text
