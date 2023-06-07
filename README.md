@@ -1,4 +1,4 @@
-## 👾 About Me
+## 👾 About Me 
 A class of 2026 student pursing a major in Computer Science. I enjoy contributing to open source projects
 I like such as [osu!](https://github.com/ppy/osu/commits?author=novialriptide) (the popular circle-clicking
 rhythm game) and [pygame-ce](https://github.com/pygame-community/pygame-ce/commits?author=novialriptide)
@@ -15,7 +15,7 @@ If the contributions chart seems empty, I'm *probably* working on confidental pr
 
 *Click on the embedded URLs for my commit history in the respective repositories.*
 
-## 📈 My Stats
+## 📈 My Stats ![status](https://img.shields.io/github/actions/workflow/status/novialriptide/novialriptide/waka-readme.yml) ![last commit](https://img.shields.io/github/last-commit/novialriptide/novialriptide?label=last%20updated)
 All of my TeX and some of my Java hours are from my university assignments. All of my C hours
 are from contributing to
 [pygame](https://github.com/pygame/pygame/commits?author=novialriptide),
