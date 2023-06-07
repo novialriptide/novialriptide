@@ -8,7 +8,7 @@ of the popular Python game framework). Currently I am the lead maintainer for th
 relating to [pygame-ce](https://pyga.me). I was also originally a contributor
 to the legacy [pygame](https://github.com/pygame/pygame/commits?author=novialriptide) project as well.
 
-If the contributions chart seems empty, I'm *probably(?)* working on confidental projects for Rutgers University.
+If the contributions chart seems empty, I'm *probably(?)* working on confidental projects for [Rutgers University](https://rutgers.edu).
 
 *Click on the embedded URLs for my commit history in the respective repositories.*
 
