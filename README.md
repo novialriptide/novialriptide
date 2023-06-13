@@ -6,10 +6,9 @@ rhythm game) and [pygame-ce](https://github.com/pygame-community/pygame-ce/commi
 [pygame-ce website](https://github.com/pygame-community/pyga.me/commits?author=novialriptide), a
 [PythonDiscord](https://discord.gg/python) Partner, and a maintainer for 
 [HPyProject.org](https://github.com/hpyproject/hpyproject.org/commits?author=novialriptide),
-a website owned by the [Python Software Foundation.](https://www.python.org/psf-landing/)
+a website owned by the [Python Software Foundation](https://www.python.org/psf-landing/).
 I was also originally a contributor to the legacy
 [pygame](https://github.com/pygame/pygame/commits?author=novialriptide) project as well.
-
 If the contributions chart seems empty, I'm *probably* working on confidental projects for
 [Rutgers University](https://rutgers.edu).
 
