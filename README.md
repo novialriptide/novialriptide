@@ -9,8 +9,6 @@ rhythm game) and [pygame-ce](https://github.com/pygame-community/pygame-ce/commi
 a website owned by the [Python Software Foundation](https://www.python.org/psf-landing/).
 I was also originally a contributor to the legacy
 [pygame](https://github.com/pygame/pygame/commits?author=novialriptide) project as well.
-If the contributions chart seems empty, I'm *probably* working on confidental projects for
-[Rutgers University](https://rutgers.edu).
 
 *Click on the embedded URLs for my commit history in the respective repositories.*
 
