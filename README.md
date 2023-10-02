@@ -23,7 +23,7 @@ and [Python](https://github.com/python/cpython/commits?author=novialriptide).
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 30 September 2023
+From: 26 April 2022 - To: 01 October 2023
 
 Total Time: 1,006 hrs 6 mins
 
