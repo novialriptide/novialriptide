@@ -19,4 +19,4 @@ jobs:
           SHOW_MASKED_TIME: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: rust
-          LANG_COUNT: 12
+          LANG_COUNT: 15
