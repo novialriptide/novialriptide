@@ -7,7 +7,7 @@ A class of 2026 student pursing a major in Computer Science. I contributed to so
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 April 2022 - To: 12 October 2023
+From: 26 April 2022 - To: 13 October 2023
 
 Total Time: 1,022 hrs 11 mins
 
