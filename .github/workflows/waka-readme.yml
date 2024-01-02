@@ -20,4 +20,4 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: rust
           LANG_COUNT: 15
-          IGNORED_LANGUAGES: Binary
+          IGNORED_LANGUAGES: Binary Text
