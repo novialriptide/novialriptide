@@ -5,7 +5,7 @@ A student pursuing a major in Computer Science and contributing to [open-source 
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 April 2022 - To: 05 March 2024
+From: 26 April 2022 - To: 06 March 2024
 
 Total Time: 1,248 hrs 50 mins
 
