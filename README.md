@@ -1,5 +1,7 @@
-## 👾 About Me
-A student pursuing a major in Computer Science and contributing to [open-source software for Rutgers University](https://github.com/oss). I made some major contributions to some open-source projects such as [osu!](https://github.com/ppy/osu/commits?author=novialriptide), [pygame-ce](https://github.com/pygame-community/pygame-ce/commits?author=novialriptide), and [pygame](https://github.com/pygame/pygame/commits?author=novialriptide). Currently sharing my progress on a video game project on [reigngame.net](https://reigngame.net/).
+## 🧑‍💻 About Me
+
+- Contributing to repositories I find interesting
+- GitHub Avatar from [Mameyudoufu's album art "Bootloader"](https://music.apple.com/us/album/boot-loader/1594571755)
 
 ## 📈 My Stats ![status](https://img.shields.io/github/actions/workflow/status/novialriptide/novialriptide/waka-readme.yml) ![last commit](https://img.shields.io/github/last-commit/novialriptide/novialriptide?label=last%20updated)
 <!--START_SECTION:waka-->
