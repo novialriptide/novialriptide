@@ -1,7 +1,7 @@
 ## 🧑‍💻 About Me
 
 - Contributing to repositories I find interesting
-- GitHub Avatar from [Mameyudoufu's album art "Bootloader"](https://music.apple.com/us/album/boot-loader/1594571755)
+- GitHub avatar from [Mameyudoufu's album art "Bootloader"](https://music.apple.com/us/album/boot-loader/1594571755)
 
 ## 📈 My Stats ![status](https://img.shields.io/github/actions/workflow/status/novialriptide/novialriptide/waka-readme.yml) ![last commit](https://img.shields.io/github/last-commit/novialriptide/novialriptide?label=last%20updated)
 <!--START_SECTION:waka-->
